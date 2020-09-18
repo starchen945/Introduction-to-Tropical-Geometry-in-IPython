@@ -4,6 +4,6 @@
 
 一個目的就是要示範 IPython 的使用, 所以程式很多非常的簡略、粗糙, 也沒有用到什麼高級的演算法。這是一定要提醒的部份。
 
-### 用 IPython NBViwer 看筆記
+## 用 IPython NBViwer 看筆記
 
 [IPython Notebook 筆記](http://nbviewer.ipython.org/github/yenlung/Introduction-to-Tropical-Geometry-in-IPython/blob/master/Introduction%20to%20Tropical%20Geometry%20in%20IPython.ipynb)
